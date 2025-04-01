@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-Hello world!
+Hello world - the beautiful world is out there!
